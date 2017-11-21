@@ -1,4 +1,4 @@
-<?php namespace Illuminate\Log;
+<?php namespace Illuminate\Container\Illuminate\Log;
 
 use Closure;
 use RuntimeException;
